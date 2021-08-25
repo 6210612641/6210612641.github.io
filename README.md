@@ -1,4 +1,6 @@
-# Thunyaporn Tangcharoenchitkul 6210612641
+#Cn331 6210612641
+
+## Thunyaporn Tangcharoenchitkul
 
 <img src="me.PNG" width="300" height="500" />
 
